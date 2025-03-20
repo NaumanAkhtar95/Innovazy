@@ -1,0 +1,74 @@
+{
+    "cc": {
+          "mainHeadingSliceOne": "Cloud Computing",
+          "mainHeadingSliceTwo": "Services in USA",
+        "subHeadingSliceOne": "Empowering Businesses with",
+        "subHeadingSliceTwo": "Scalable Solutions",
+        "desc": "We provide cost effective cloud computing services to enterprises, industrial businesses, organizations and government institutions to help them build efficiency and security in their systems.",
+        "sectionOne": {
+            "mainHeading": "What Accompanies Cloud Computing",
+            "desc":"Cloud computing brings a lot of benefits to businesses and ensure more security and safety of databases.",
+            "cardOne": {
+                "title": "High Speed",
+                "desc": "Cloud computing help businesses to rely on smooth and high speed systems."
+            },
+            "cardTwo": {
+                "title": "Reliability",
+                "desc": "Clouds are reliable for enterprises, industrial businesses"
+            },
+            "cardThree": {
+                "title": "Cost Effective",
+                "desc": "It is very cost effective as it minimizes the expenses and maximizes the output."
+            },
+            "cardFour": {
+                "title": "Security",
+                "desc": "All the databases are encrypted and the information remains intact."
+            }
+        },
+        "sectionTwo": {
+            "mainHeading": "Things that Excite Our Clients",
+            "desc":"Our clients are a family and we treat them we utmost comfort and convenience.",
+            "cardOne": {    
+                "title": "Friendly Environment",
+                "desc": "We share a friendly environment with our clients where they feel comfortable and enjoy processing of their products."
+            },
+            "cardTwo": {
+                "title": "Sharing Ideas",
+                "desc": "We always listen to both our customers and team members for giving life to new ideas in order to bring uniqueness in the IT world."
+            },
+            "cardThree": {
+                "title": "Prioritizing Quality",
+                "desc": "Our customers always get quality in every product as we serve them with quality assurance that helps businesses increase their revenues."
+            },
+            "cardFour": {
+                "title": "Timely Deliveries",
+                "desc": "Our team of experts put all their efforts to ensure punctuality."
+            }
+        },
+        "sectionThree": {
+            "mainHeading": "Cloud Computing Services",
+            "desc":"Our experts put all their efforts to remain at the forefront in cloud evolution through the adoption of virtual and converged solutions. It provides a defined model that improves user experiences.",
+            "cardOne": {
+              "pointOne":"Virtualization",
+              "pointTwo":"Software Defined Data Centers (SDDC)",
+              "pointThree":"Digital Transformation",
+              "pointFour":"Converged and Hyper Converged Infrastructure"
+
+            },
+            "cardTwo": {
+              "pointOne":"LaaS and SaaS solutions",
+              "pointTwo":"IaaS and PaaS solutions",
+              "pointThree":"Hybrid cloud",
+              "pointFour":"Multi cloud"
+
+            },
+            "cardThree": {
+              "pointOne":"Test and Development",
+              "pointTwo":"Big Data Analytics",
+              "pointThree":"Disaster Recovery",
+              "pointFour":"Data Backup"
+
+            }
+        }
+    }
+}

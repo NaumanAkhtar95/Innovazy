@@ -1,0 +1,21 @@
+{
+    "home": "الرئيسية",
+    "aboutus": "من نحن",
+    "service": "خدماتنا",
+    "services": {
+    "webappdev": "تطوير تطبيقات الويب",
+    "mobileapp": "تطبيقات الهاتف المحمول",
+    "cloudcomputing": "الحوسبة السحابية",
+    "qualityassurance": "ضمان الجودة",
+    "softwaredevelopment": "تطوير البرمجيات",
+    "graphicsdesign": "تصميم الجرافيك",
+    "uiuxdesign": "تصميم واجهة المستخدم وتجربة المستخدم"
+},
+    "team": "الفريق",
+    "clientsay": "آراء العملاء",
+    "blogs": "المدونات",
+    "english": "الإنجليزية",
+         "privacyPolicy": "سياسة الخصوصية",
+        "termsService": "شروط الخدمة",
+        "rightsReserved": "© 2024 Innovazy LLC. جميع الحقوق محفوظة"
+}

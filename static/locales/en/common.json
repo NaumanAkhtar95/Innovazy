@@ -1,0 +1,11 @@
+{
+    "buttons":{
+        "primaryButton":"Get Consultation",
+        "secondaryButton":"Talk to us",
+        "readMore":"Read More",
+        "contactUs":"Contact Us",
+        "exploreTeam":"استكشف الفريق",
+        "exploreServices":"Explore Services"
+    },
+    "cta":"Ready to take your website to the next level with our expert services?"
+}

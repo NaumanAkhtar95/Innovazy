@@ -1,0 +1,20 @@
+.footer-last {
+    display: flex;
+    padding: 16px 30px 16px 16px;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border: 1px solid var(--stroke-cards-innovazy, rgba(202, 255, 51, 0.10));
+    background: var(--cards-innovazy, linear-gradient(106deg, rgba(241, 120, 64, 0.05) -29.45%, rgba(241, 120, 64, 0.00) 27.86%), linear-gradient(267deg, rgba(28, 28, 28, 0.50) 40.67%, rgba(28, 28, 28, 0.00) 99.81%));
+}
+
+.span-social {
+    display: flex;
+    padding: 14px;
+    height: fit-content;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 100px;
+    border-left: 1px solid var(--btn-outline-innovazy, #F17840);
+    background: var(--cards-innovazy, linear-gradient(106deg, rgba(241, 120, 64, 0.05) -29.45%, rgba(241, 120, 64, 0.00) 27.86%), linear-gradient(267deg, rgba(28, 28, 28, 0.50) 40.67%, rgba(28, 28, 28, 0.00) 99.81%));
+}

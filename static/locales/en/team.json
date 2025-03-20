@@ -1,0 +1,27 @@
+{
+    "team":{
+        "mainHeadingOne":"The Team of",
+        "mainHeadingTwo":"Innovazy",
+        "desc":"Meet the team that's investing into the new generation",
+        "techHeadingOne":"Building Bridges with",
+        "techHeadingTwo":"Every Line of Code",
+        "analytics":{
+            "itemOne":{
+                "count":"25k+",
+                "desc":"Projects completed"
+            },
+            "itemTwo":{
+                "count":"25k+",
+                "desc":"Happy Customers"
+            },
+            "itemThree":{
+                "count":"10+",
+                "desc":"Years of Experience"
+            },
+            "itemFour":{
+                "count":"25k+",
+                "desc":"Projects completed"
+            }
+        }
+    }
+}

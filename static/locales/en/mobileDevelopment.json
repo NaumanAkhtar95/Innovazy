@@ -1,0 +1,60 @@
+{
+    "md": {
+          "mainHeading": "Mobile Application Development",
+        "subHeadingSliceOne": "Empowering Businesses with",
+        "subHeadingSliceTwo": "Cutting-Edge Mobile Solutions",
+        "desc": "Our highly experienced and skilled expert team ensures to bring our customers the most advanced mobile apps to the user experience of their potential businesses and satisfy more customers.",
+        "sectionOne": {
+            "mainHeading": "SERVICES AND PLATFORMS",
+            "desc":"At Innovazy, you get the most advanced and diverse options for a modern interface mobile app for your business to stand from your competitors.",
+            "cardOne": {
+                "title": "Designing",
+                "desc": "Our designers make the most interesting and attractive designs of mobile apps to excel and unify an optimal usability, engagement and accessibility for your customers. It helps businesses to add more value in customer satisfaction and increase revenues."
+            },
+            "cardTwo": {
+                "title": "Native Mobile Development",
+                "desc": "Innovazy aims at making IT solutions accessible and for that we provide native mobile development services to help businesses and organizations with a particular or specific platform such as Android or iOS respectively. It serves your businesses with increased revenues."
+            },
+            "cardThree": {
+                "title": "WCross-Platform Mobile Development",
+                "desc": "We have got the best talent to make one high performance and a high Cross-Platform Mobile Development application for various platforms to help businesses in attracting more potential customers with a smooth interface on both iOS and Android."
+            }
+        },
+        "sectionTwo": {
+            "mainHeading": "Our Key Focuses",
+            "cardOne": {    
+                "title": "Maximizing performance",
+                "desc": "The goal of creating and building apps is to maximize performance and provide a smooth experience to its users."
+            },
+            "cardTwo": {
+                "title": "Attractive designs",
+                "desc": "Our designers are passionate artists with digital skills to add the most attractive and unique designs in IT solutions to make it impressive and fascinating."
+            },
+            "cardThree": {
+                "title": "Seamless UI/UX designs",
+                "desc": "The expert UI/UX designing team ensure that our customers give transparent reports before a final launch to avoid any errors."
+            },
+            "cardFour": {
+                "title": "Optimization",
+                "desc": "Our business experts have well known knowledge and skills to do the necessary research for optimizing your business apps to help you reach more potential numbers."
+            }
+        },
+        "sectionThree": {
+            "mainHeading": "What Makes Innovazay the Best Choice?",
+            "desc":"We design and build app to solve real-world issues and assist businesses to become bigger and better with unified, smooth and exceptional user experience.",
+            "cardOne": {
+                "title": "Consummate Experience",
+                "desc": "We prioritize quality in all our products by achieving quality assurance as our main goal before we release a final product. This makes matchless experiences with bug free web applications.."
+            },
+            "cardTwo": {
+                "count": "02",
+                "title": "Industry Expertise",
+                "desc": "At Innovazay, we have diverse expert team with specialized knowledge and extra-ordinary skills to help us feed the needs of all types of customers and match various industrial standards."
+            },
+            "cardThree": {
+                "title": "Stand Out Apps",
+                "desc": "We have been the developers of award-winning apps and our effort is continuous to help more businesses with more stand out apps. We ensure that it makes a way to your target audience."
+            }
+        }
+    }
+}

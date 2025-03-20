@@ -1,0 +1,52 @@
+{
+    "services":{
+        "mainHeadingSliceOne":"Ser",
+        "mainHeadingSliceTwo":"v",
+        "mainHeadingSliceThree":"ices",
+        "subHeadingSliceOne":"COVERING ALL YOUR ",
+        "subHeadingSliceTwo":"DIGITAL NEEDS",
+        "desc":"At Innovazy, we provide a comprehensive range of digital services tailored to meet all your business needs. From innovative web development and mobile app design to cutting-edge digital marketing strategies, our solutions are crafted to elevate your online presence and drive growth. Whether you're looking for custom software, cloud solutions, or data analytics, our expert team is here to help you achieve success in the digital world.",
+        "listing":{
+            "one":{
+                "title":"Web App Development",
+                "desc":"We provide you the leverage of doing all tech things with innovazy",
+                "count":"01"
+            },
+            "two": {
+                "title": "Software Development",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "02"
+              },
+              "three": {
+                "title": "Mobile App Development",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "03"
+              },
+              "four": {
+                "title": "Graphics Design",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "04"
+              },
+              "five": {
+                "title": "Cloud Computing",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "05"
+              },
+              "six": {
+                "title": "UI/UX Design",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "06"
+              },
+              "seven": {
+                "title": "Quality Assurance",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "07"
+              },
+              "eight": {
+                "title": "Blogs",
+                "desc": "We provide you the leverage of doing all tech things with Innovazy.",
+                "count": "08"
+              }
+        }
+        }
+}

@@ -1,0 +1,39 @@
+export const cloudComputingServices = (t) => [
+    {
+      "title": t("cc.sectionThree.cardOne.pointOne")
+    },
+    {
+      "title":t("cc.sectionThree.cardOne.pointTwo")
+    },
+    {
+      "title":t("cc.sectionThree.cardOne.pointThree")
+    },
+    {
+      "title":t("cc.sectionThree.cardOne.pointFour")
+    },
+    {
+      "title":t("cc.sectionThree.cardTwo.pointOne")
+    },
+    {
+      "title":t("cc.sectionThree.cardTwo.pointTwo")
+    },
+    {
+      "title":t("cc.sectionThree.cardTwo.pointThree")
+    },
+    {
+      "title":t("cc.sectionThree.cardTwo.pointFour")
+    },
+    {
+      "title":t("cc.sectionThree.cardThree.pointOne")
+    },
+    {
+      "title":t("cc.sectionThree.cardThree.pointTwo")
+    },
+    {
+      "title":t("cc.sectionThree.cardThree.pointThree")
+    },
+    {
+      "title":t("cc.sectionThree.cardThree.pointFour")
+    }
+  ]
+  

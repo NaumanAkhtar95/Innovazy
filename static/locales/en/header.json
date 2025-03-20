@@ -1,0 +1,21 @@
+{
+    "home":"Home",
+    "aboutus":"About Us",
+    "service":"Services",
+    "services":{
+        "webappdev":"Web App Development",
+        "mobileapp":"Mobile App",
+        "cloudcomputing":"Cloud Computing",
+        "qualityassurance":"Quality Assurance",
+        "softwaredevelopment":"Software Development",
+        "graphicsdesign":"Graphics Design",
+        "uiuxdesign":"UI UX Design"
+    },
+    "team":"Team",
+    "clientsay":"What Clients Say",
+    "blogs":"Blogs",
+    "english":"English",
+    "privacyPolicy":"Privacy Policy",
+    "termsService":"Terms of Service",
+    "rightsReserved":"© 2024 Innovazy LLC. All rights reserved"
+}

@@ -1,0 +1,26 @@
+export const corporateWebDev = (t) => [
+    {
+        data:t("wd.sectionFour.points.one"),
+    },
+    {
+        data:t("wd.sectionFour.points.two"),
+    },
+    {
+        data:t("wd.sectionFour.points.three"),
+    },
+    {
+        data:t("wd.sectionFour.points.four"),
+    },
+    {
+        data:t("wd.sectionFour.points.five"),
+    },
+    {
+        data:t("wd.sectionFour.points.six"),
+    },
+    {
+        data:t("wd.sectionFour.points.seven"),
+    },
+    {
+        data:t("wd.sectionFour.points.eight"),
+    },
+]

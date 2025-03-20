@@ -1,0 +1,219 @@
+@keyframes opacity {
+
+    50% {
+        opacity: 0.5;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+
+.homeSectionRightBlob::before, .homeSectionRightBlob::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    inset: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 67% 55%, #F17840, rgba(255, 123, 0, 0.3) 50%, transparent 70%);
+    --mask: var(--grad), var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+    /* if the animation takes too much processing time then comment the next line  */
+    animation: opacity 8s ease-in-out infinite both alternate;
+}
+
+.homeSectionRightBlob::before {
+    background: #000;
+    filter: url(#f);
+}
+
+.homeSectionRightBlob::after {
+    background: linear-gradient(180deg, #F17840, #F17840 20%, #F17840);
+}
+
+.homeSectionleftBlob::before, .homeSectionleftBlob::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 40% 35%, #7F30FF, rgba(255, 123, 0, 0.3) 30%, transparent 70%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+    animation: opacity 12s ease-in-out infinite both alternate;
+}
+
+.homeSectionleftBlob::after {
+    background: linear-gradient(180deg, #7F30FF, #7F30FF 20%, #7F30FF);
+}
+
+.clientGradientBlogTop::before, .clientGradientBlogTop::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 40% 43%, #7F30FF, rgba(255, 0, 225, 0.2) 35%, transparent 70%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.clientGradientBlogTop::after {
+    background: linear-gradient(180deg, #7F30FF, #7f30ff6b 20%, #7F30FF);
+}
+
+.clientGradientBlogBottom::before, .clientGradientBlogBottom::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    inset: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 55% 60%, #F17840, rgba(255, 123, 0, 0.456) 40%, transparent 70%);
+    --mask: var(--grad), var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.clientGradientBlogBottom::after {
+    background: linear-gradient(180deg, #F17840, #f178404c 20%, #F17840);
+}
+
+.ctaGradientBlobMid::before, .ctaGradientBlobMid::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    inset: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 50% 50%, #7F30FF, rgba(255, 0, 225, 0.25) 40%, transparent 60%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.ctaGradientBlobMid::after {
+    background: linear-gradient(270deg, #7F30FF, #7f30ff5c 40%, #7F30FF);
+}
+
+.ctaGradientBlobRight::before, .ctaGradientBlobRight::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 70% 45%, #F17840, rgba(255, 123, 0, 0.347) 30%, transparent 60%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.ctaGradientBlobRight::after {
+    background: linear-gradient(180deg, #F17840, #f178404c 20%, #F17840);
+}
+
+.ctaGradientBlobLeft::before, .ctaGradientBlobLeft::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 30% 50%, #F17840, rgba(255, 123, 0, 0.347) 30%, transparent 65%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.ctaGradientBlobLeft::after {
+    background: linear-gradient(90deg, #F17840, #f178404c 20%, #F17840);
+}
+
+.contactGradientBlobLeft::before, .contactGradientBlobLeft::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 30% 50%, #F17840, rgba(255, 123, 0, 0.347) 40%, transparent 65%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.contactGradientBlobLeft::after {
+    background: linear-gradient(180deg, #F17840, #f178404c 20%, #F17840);
+}
+
+.contactGradientBlobMid::before, .contactGradientBlobMid::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    inset: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 50% 60%, #7F30FF, rgba(255, 0, 225, 0.293) 40%, transparent 60%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.contactGradientBlobMid::after {
+    background: linear-gradient(180deg, #7F30FF, #7f30ff5c 40%, #7F30FF);
+}
+
+.contactGradientBlobRight::before, .contactGradientBlobRight::after {
+    position: absolute;
+    inset: 0;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    --grad: radial-gradient(at 65% 60%, #F17840, rgba(255, 123, 0, 0.347) 25%, transparent 60%);
+    --mask: var(--grad), var(--grad);
+    -webkit-mask: var(--mask);
+    -webkit-mask-composite: source-in;
+    mask: var(--mask);
+    mask-composite: intersect;
+    mix-blend-mode: lighten;
+    content: '';
+}
+
+.contactGradientBlobRight::after {
+    background: linear-gradient(240deg, #F17840, #f178404c 20%, #F17840);
+}

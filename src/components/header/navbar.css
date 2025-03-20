@@ -1,0 +1,44 @@
+.group:hover .dropdown {
+    visibility: visible;
+    opacity: 1;
+}
+
+.group .dropdown {
+    opacity: 0;
+    transition: 0.15s ease-in-out all;
+}
+
+.onScrollNav {
+    background: linear-gradient(106deg, rgba(0, 0, 0, 0.684)9.45%, rgba(0, 0, 0, 0.60) 27.86%), linear-gradient(267deg, rgba(23, 23, 23, 0.667) 40.67%, rgba(1, 1, 1, 0.71) 99.81%);
+    backdrop-filter: blur(6px);
+    background-clip: padding-box;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+}
+
+.smallScreenNav {
+    background: linear-gradient(106deg, rgba(0, 0, 0, 0.684)9.45%, rgba(0, 0, 0, 0.60) 27.86%), linear-gradient(267deg, rgba(23, 23, 23, 0.667) 40.67%, rgba(1, 1, 1, 0.71) 99.81%);
+    backdrop-filter: blur(6px);
+    background-clip: padding-box;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+}
+
+.onScrollLogo {
+    width: 125px !important;
+}
+
+.logo {
+    transition: 0.2s ease-in-out all;
+    width: 150px;
+    max-width: 150px;
+}
+
+.activeLink {
+    display: flex;
+    height: 48px;
+    align-items: center;
+    border-radius: 8px !important;
+    padding: 0 20px 0 20px !important;
+    background: linear-gradient(106deg, rgba(241, 120, 64, 0.05) -29.45%, rgba(241, 120, 64, 0.00) 27.86%), linear-gradient(267deg, rgba(28, 28, 28, 0.50) 40.67%, rgba(28, 28, 28, 0.00) 99.81%);
+}

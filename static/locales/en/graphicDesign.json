@@ -1,0 +1,62 @@
+{
+    "gd": {
+          "mainHeading": "Graphics Design Services in USA",
+        "subHeadingSliceOne": "Elevating Your Brand with ",
+        "subHeadingSliceTwo": "Stunning Visual Designs",
+        "desc": "Hire us and get the most attractive and appealing designs at the hands of our artistic, aesthetic and creative graphic designers who focus on creating meaningful digital art forms to convey your message in a more effective way.",
+        "sectionOne": {
+            "mainHeading": "Graphic Designing Services",
+            "desc": "At Innovazy, you get the most advanced and diverse options for a modern interface mobile app for your business to stand from your competitors.",
+            "cardOne": {
+                "title": "Brochure/Flyer",
+                "desc": "Let Innovazy create the most eye catching design for your brochures and flyers to advertise your brand and campaigns. A well thought design contains an effective marketing strength and bring the attention of potential customers to increase your revenues. Our team of experts consider every piece of art essentially meaningful to serve your business with potential branding and marketing."
+            },
+            "cardTwo": {
+                "title": "Illustration Design",
+                "desc": "Help your business to catch more potential customers with our creative and diverse illustration designs by our highly skilled, creative and experienced designers who integrate art with market standards and customer needs at best possible levels. Moreover, we also provide our clients with fascinating ideas that might cross their minds and the end product results in accordance with market standards and customer needs."
+            },
+            "cardThree": {
+                "title": "Video Editing",
+                "desc": "We have got the best talent to make one high performance and a high Cross-Platform Mobile Development application for various platforms to help businesses in attracting more potential customers with a smooth interface on both iOS and Android."
+            }
+        },
+     
+        "sectionTwo": {
+            "mainHeadingSliceOne": "Our",
+            "mainHeadingSliceTwo": "Process",
+            "desc": "Innovazy believes in providing the world with creative and innovative digital art through graphic designing services in a collaborative environment where transparency is foremost than anything else while reporting to our clients with each step.",
+            "circleOne": {
+                "count": "01",
+                "title": "Research",
+                "desc": "Thorough research drives informed decisions, providing valuable insights to guide your strategy and maximize outcomes."
+            },
+            "circleTwo": {
+                "count": "02",
+                "title": "Planning",
+                "desc": "Strategic planning lays the foundation for success, aligning your goals with actionable steps for effective project execution."
+            },
+            "circleThree": {
+                "count": "03",
+                "title": "Execution",
+                "desc": "Deliver results efficiently through precise execution, ensuring your projects are completed on time and to the highest standards."
+            },
+            "circleFour": {
+                "count": "04",
+                "title": "Performance Testing",
+                "desc": "Evaluate your application’s speed and stability with performance testing to ensure optimal user experience and reliability."
+            }
+        },
+        "sectionFour": {
+            "mainHeading": "Modern Art as our Graphic Designing Chemistry",
+            "desc": "We are a full service graphic designing services with our clients around the globe. We help businesses by solving the visual branding problems with our modern art at the hands of our expert and artistic graphic designers. We believe in.",
+            "points": {
+                "one": "Listening to your needs",
+                "two": "Focusing on modern art forms",
+                "three": "Ensuring quality",
+                "four": "Match market standards",
+                "five": "Eloquence",
+                "six": "Time delivery"
+            }
+        }
+    }
+}

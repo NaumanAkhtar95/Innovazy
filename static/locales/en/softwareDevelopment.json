@@ -1,0 +1,100 @@
+{
+    "sd": {
+          "mainHeading": "Software Development Services in USA",
+        "subHeadingSliceOne": "Expert Software Development",
+        "subHeadingSliceTwo": "Across Platformss",
+        "desc": "We prioritize the unique needs and preferences of our valued clients and provide them with creative and supremely functional end to end web designs and development services.",
+        "sectionOne": {
+            "mainHeading": "Our Services Under Software Development",
+            "cardOne": {
+                "title": "Custom Software Development Services",
+                "desc": "We provide our clients with highly flexible, scalable and advanced technology focused desktop applications to help them in standing out from their competitors."
+            },
+            "cardTwo": {
+                "title": "Application Maintenance Services",
+                "desc": "Our experts are fully experienced and skillful in modifying and expanding the functionality of your applications with debugging and supplementary solutions to make the user experience smooth."
+            },
+            "cardThree": {
+                "title": "API Development Services",
+                "desc": "Get the best designing and deploying support with our high standard API development services to take your businesses on a next level."
+            }
+        },
+        "sectionTwo": {
+            "mainHeading": "Custom Software Solutions Services",
+            "cardOne": {    
+                "title": "Customer Relationship Management (CRM) Solutions",
+                "desc": "We have got highly experienced and skilled team to provide our clients with the best CRM solutions so they can enjoy a seamless process and improve the profits of their businesses. We ensure that you stay connected with your potential clients to add value to your revenue"
+            },
+            "cardTwo": {
+                "title": "Enterprise Resource Planning (ERP) Solutions",
+                "desc": "Our experts are fully experienced and skillful in modifying and expanding the functionality of your applications with debugging and supplementary solutions to make the user experience smooth."
+            },
+            "cardThree": {
+                "title": "AI & IoT-Connectivity Solutions",
+                "desc": "Get the best designing and deploying support with our high standard API development services to take your businesses on a next level."
+            },
+            "cardFour": {
+                "title": "Business Process Automation Solutions",
+                "desc": "Our team specializes in automating your business processes, integrating advanced CRM, ERP, and AI technologies. We help streamline workflows, reduce manual tasks, and increase efficiency, allowing you to focus on core business growth. By leveraging automation, we enhance your operational performance, helping you achieve faster results and improve overall profitability."
+            }
+        },
+        "sectionThree": {
+            "mainHeading": "The Development Method We Follow",
+            "cardOne": {
+                "title": "Discussion and Planning",
+                "desc": "We prioritize Discussion and Planning listening to our customers so their needs and ideas are discussed and a plan is formulated to give it a tech life."
+            },
+            "cardTwo": {
+                "count": "02",
+                "title": "Designing Architecture",
+                "desc": "An effective and seamless design is architected to connect all the required components together for a smooth and modern software solution."
+            },
+            "cardThree": {
+                "title": "Analysis",
+                "desc": "The expectations of the clients are analyzed and integrated with the technological market needs to come up with an effective strategy."
+            },
+            "cardFour": {
+                "title": "Building",
+                "desc": "Our engineers and developers get to the desk for coding and programming with the appropriate language and techniques to build the software."
+            },
+            "cardFive": {
+                "title": "Assuring Quality",
+                "desc": "Our experts experiment the product for quality assurance by doing several tests to ensure that it will provide a smooth and bug free user interface."
+            },
+            "cardSix": {
+                "title": "Maintenance",
+                "desc": "Our team is responsible for its maintenance with a life time support to help you like a family and ensure that it continues to work as per your requirements."
+            }
+        },
+        "sectionFour": {
+            "mainHeading": "Custom Software Solutions Services",
+            "desc": "Our team of experienced developers has won hundreds of clients throughout our years of practice. From refining your idea and pre requisites to writing code, every step is done in close collaboration with you.",
+      "faqs":{
+        "one":{
+            "question":"Enterprise Applications",
+            "answer":"Our experts use modern approaches to utilize their energies and develop a competent complex enterprise application by focusing on multiple patterns and helpful techniques."
+        },
+        "two":{
+            "question":"Custom EPR",
+            "answer":"We aim to help our clients with our best custom EPR software development to put business management functions together through a scalable system for data driven decision making."
+        },
+        "three":{
+            "question":"CRM",
+            "answer":"We serve our clients with potential CRM services with a focus on automation of sales, marketing and connecting their customers to their business with a unified system."
+        },
+        "four":{
+            "question":"Analytic Consultation",
+            "answer":"Our analytic consultation involves helping our clients to drive insights from data and take valuable and sustainable advantages from it."
+        },
+        "five":{
+            "question":"HR software",
+            "answer":"Our analytic consultation involves helping our clients to drive insights from data and take valuable and sustainable advantages from it."
+        },
+        "six":{
+            "question":"Fleet management software",
+            "answer":"Hire us to give an insight about fuel consumption, location and condition of vehicles and the behavior of drivers through our fleet management software solutions."
+        }
+      }
+        }
+    }
+}

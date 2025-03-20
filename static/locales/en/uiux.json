@@ -1,0 +1,63 @@
+{
+    "ui": {
+          "mainHeadingSliceOne": "UI/UX Design",
+          "mainHeadingSliceTwo": "Services",
+        "subHeadingSliceOne": "Innovative Designs That Drive",
+        "subHeadingSliceTwo": " User Satisfaction",
+        "desc": "Innovazay has a large team of experts and professionals who ensure high end performance of your solutions with all-in-one advanced and modern UI/UX designs.",
+        "sectionOne": {
+            "mainHeading": "What we are known for?",
+            "desc":"Hire us and get attached to our highly technical and experienced team of professionals for amazing UI/UX designs for all types of solutions.",
+            "cardOne": {
+                "title": "UI/UX Design for Web",
+                "desc": "We follow the best practices to ensure that we provide our clients with high-end performing modern designs and user interfaces for their web pages. Our products are user-friendly and convenient to stream on online platforms."
+            },
+            "cardTwo": {
+                "title": "UI/UX Design for Mobile",
+                "desc": "Our experts apply their experience and skills to create spot-on designs for both iOS and Android mobile applications to help your businesses with better marketing and branding. Moreover, its easy accessibility and smooth streaming increase your customer satisfaction."
+            },
+            "cardThree": {
+                "title": "Data Visualization",
+                "desc": "We help businesses with easy comprehension and handling of complex data and information by creating laconic intuitive dashboards at the hands of our highly specialized and creative UI/UX designers. The bottom line is to make data visualization interesting and easy to analyze."
+            }
+        },
+        "sectionTwo": {
+            "mainHeading": "How we achieve Excellence in UI/UX Designing?",
+            "desc":"Our passionate and dedicated team help us to provide our customers with excellent UI/UX designs. Hire us and start your success journey with our quality focused services.",
+            "cardOne": {    
+                "title": "Research Phase",
+                "desc": "Our process starts with defining the goals of your business by doing a deep market analysis and discussing the needs and expectations of our clients. The main focus is to raise customer retention and customer satisfaction."
+            },
+            "cardTwo": {
+                "title": "Prototyping",
+                "desc": "We put ideas into practice and test it with users through advanced prototyping and wire framing of our UI/UX products to ensure a systematic process to help us bug-free end results and customer satisfaction."
+            },
+            "cardThree": {
+                "title": "Data Focused Designs",
+                "desc": "Let us help you in providing you with revolutionary digital products by putting real data based on qualitative and quantitative research to ensure unique structures and architectures which in turn pivot fast."
+            },
+            "cardFour": {
+                "title": "User Testing",
+                "desc": "We conduct comprehensive user testing to gather feedback and insights from real users, which helps us refine and enhance our designs to better meet user needs and expectations.."
+            }
+        },
+        "sectionThree": {
+            "mainHeadingSliceOne": "Ensuring",
+            "mainHeadingSliceTwo": "High-end Performance",
+            "cardOne": {
+            "mainHeading":"Accessibility Testing",
+            "desc":"We guarantee to follow Web Content Accessibility Guidelines (WCAG) to improve user experiences with required flexibility and availability while designing all web applications. Our focus is to create and build IT structures in accordance with market standards and user demands."
+            },
+            "cardTwo": {
+             "mainHeading":"Usability Testing",
+            "desc":"Our experts are highly skilled and experienced in conducting usability testing of all UI/UX designs. It looks into both qualitative and quantitative data information regarding the satisfaction of users with the product to help clients with bug-free user experiences for usability testing."
+
+            },
+            "cardThree": {
+             "mainHeading":"UX Audit",
+            "desc":"Our UX audit aims at gaining a better understanding of UX challenges and help customers to save money on development, increase profitability and observe beforehand about user behaviors. By following this process, we get to serve our clients better. It ensures quality."
+
+            }
+        }
+    }
+}

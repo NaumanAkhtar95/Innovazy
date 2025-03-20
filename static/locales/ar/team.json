@@ -1,0 +1,28 @@
+{
+    "team": {
+    "mainHeadingOne":"فريق",
+    "mainHeadingTwo":"Innovazy",
+    "desc": "تعرف على الفريق الذي يستثمر في الجيل الجديد",
+    "techHeadingOne": "بناء جسور مع",
+    "techHeadingTwo": "كل سطر من الكود",
+    "analytics": {
+        "itemOne": {
+            "count": "25k+",
+            "desc": "المشاريع المنجزة"
+        },
+        "itemTwo": {
+            "count": "25k+",
+            "desc": "عملاء سعداء"
+        },
+        "itemThree": {
+            "count": "10+",
+            "desc": "سنوات من الخبرة"
+        },
+        "itemFour": {
+            "count": "25k+",
+            "desc": "المشاريع المنجزة"
+        }
+    }
+}
+
+}

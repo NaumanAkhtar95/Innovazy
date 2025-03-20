@@ -1,0 +1,64 @@
+{
+    "qa": {
+          "mainHeadingSliceOne": "Quality Assurance and",
+          "mainHeadingSliceTwo": "Testing",
+        "subHeadingSliceOne": "Your Assurance for Error-Free",
+        "subHeadingSliceTwo": " Experiences",
+        "desc": "Assuring the quality of your products to ensure that they are bug free and error free while they stream on all devices and browsers.",
+        "sectionOne": {
+            "mainHeading": "Why Choose Innovazy?",
+            "desc":"We are the hub of advanced IT products with our focus on growth and up gradation with Modern soft solutions to make sure our clients get better and progressive end-products for the vigor of their businesses.",
+            "cardOne": {
+                "title": "Quality",
+                "desc": "When we are hired for a project or a product, quality is both complimentary and main course in our end results. It help us to make long term relationships with our clients and add strength to our company reputation."
+            },
+            "cardTwo": {
+                "title": "Punctuality",
+                "desc": "Our purpose and core values include comforting our clients, so we ensure timely deliveries to get done with our projects without inviting any odd. It makes both our team and clients to achieve more in a specific time by pacing with quality."
+            },
+            "cardThree": {
+                "title": "Friendly Environment",
+                "desc": "Our experts are equipped with more of communication skills than IT skills of which they are specialists and masters. This makes our work environment very friendly and our clients enjoy a smooth and comfortable experience during the processing of their dream products."
+            },
+            "cardFour": {
+                "title": "Modern approach",
+                "desc": "We scale up all our IT solutions on a modern approach as it is the true strength of the soft world. Our clients get updated and advanced end products to take their businesses at another higher peak of success, exceeding their imaginations."
+            }
+        },
+        "sectionTwo": {
+            "mainHeading": "How Innovazay Ensures Successful Quality Assurance and Testing",
+            "cardOne": {    
+                "title": "Manual testing",
+                "desc": "Manual testing targets personal feedback about the feel of the products and analyze the user interface and usability by performing several tests on various devices. We have got the best team for it as it follows vulnerability which are impossible to detect manually.",
+                "pointOne":"Detects user interface issues",
+                "pointTwo":"Facilitate actionable testing outcomes for unstable but new soft wares",
+                "pointThree":"Allows identifying blockages in the initial development stages"
+            },
+            "cardTwo": {
+                "title": "Automated testing",
+                "desc": "We encourage our clients to invest in automated testing as it covers all types of software functionality on multiple platforms. It helps you to get flawless products with quality assurance and provide your customers and employees with smooth user interface.",
+                "pointOne":"It helps you to save your resources with its repetitive testing to ensure quality.",
+                "pointTwo":"Eradicates all human errors and ensures the reliability of the product.",
+                "pointThree":"Allows engineers to perform the testing anywhere anytime easily and get log test results."
+            }
+        },
+        "sectionThree": {
+            "mainHeadingSliceOne": "Ensuring",
+            "mainHeadingSliceTwo": "High-end Performance",
+            "cardOne": {
+            "mainHeading":"Accessibility Testing",
+            "desc":"We guarantee to follow Web Content Accessibility Guidelines (WCAG) to improve user experiences with required flexibility and availability while designing all web applications. Our focus is to create and build IT structures in accordance with market standards and user demands."
+            },
+            "cardTwo": {
+             "mainHeading":"Usability Testing",
+            "desc":"Our experts are highly skilled and experienced in conducting usability testing of all UI/UX designs. It looks into both qualitative and quantitative data information regarding the satisfaction of users with the product to help clients with bug-free user experiences for usability testing."
+
+            },
+            "cardThree": {
+             "mainHeading":"UX Audit",
+            "desc":"Our UX audit aims at gaining a better understanding of UX challenges and help customers to save money on development, increase profitability and observe beforehand about user behaviors. By following this process, we get to serve our clients better. It ensures quality."
+
+            }
+        }
+    }
+}
